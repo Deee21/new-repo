@@ -1,2 +1,2 @@
 # new-repo
-My new description
+updated description
